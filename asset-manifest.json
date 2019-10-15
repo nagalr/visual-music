@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7cc83e92.chunk.css",
+    "main.js": "/static/js/main.ed5b49f9.chunk.js",
+    "main.js.map": "/static/js/main.ed5b49f9.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.41da25ec.chunk.js": "/static/js/2.41da25ec.chunk.js",
+    "static/js/2.41da25ec.chunk.js.map": "/static/js/2.41da25ec.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2d71bb391a22928b3a9a4a7023fe62d4.js": "/precache-manifest.2d71bb391a22928b3a9a4a7023fe62d4.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.7cc83e92.chunk.css.map": "/static/css/main.7cc83e92.chunk.css.map",
+    "static/media/LogoSVG.svg": "/static/media/LogoSVG.a75b3a33.svg",
+    "static/media/LandingPage.module.scss": "/static/media/bg-image2.b9275235.gif",
+    "static/media/blackHairAndBubbles.png": "/static/media/blackHairAndBubbles.f1901f87.png",
+    "static/media/download-icon.a41c4f3b.svg": "/static/media/download-icon.a41c4f3b.svg",
+    "static/media/facebook.svg": "/static/media/facebook.a127ea7f.svg",
+    "static/media/github.svg": "/static/media/github.9d9fa02e.svg",
+    "static/media/linkedIn.svg": "/static/media/linkedIn.721a1f17.svg",
+    "static/media/medium.svg": "/static/media/medium.350faac5.svg",
+    "static/media/play-icon.7f7c42ff.svg": "/static/media/play-icon.7f7c42ff.svg",
+    "static/media/snapshot-icon-white-dark.b0e1a4d5.svg": "/static/media/snapshot-icon-white-dark.b0e1a4d5.svg",
+    "static/media/song-icon.6a00f94d.svg": "/static/media/song-icon.6a00f94d.svg",
+    "static/media/volume-icon.3ed12b70.svg": "/static/media/volume-icon.3ed12b70.svg"
+  }
+}
